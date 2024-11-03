@@ -16,7 +16,7 @@ Puedes ver el proyecto en acción a través del despliegue en Render: [Reproduct
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/JoseMarioCarranza/music_player/
    cd <nombre-del-repositorio>
    ```
 
