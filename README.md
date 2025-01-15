@@ -1,41 +1,50 @@
-# Reproductor de Música en React 🎶
+# Music Player in React 🎶
 
-Este es un proyecto de reproductor de música simple desarrollado con React. Aunque no reproduce música, proporciona una interfaz interactiva que permite navegar por una lista de canciones y ver los detalles de la canción seleccionada.
+This is a simple music player project developed with React. While it does not play music, it provides an interactive interface to navigate through a list of songs and view details of the selected song.
 
-## Características
+## Features
 
-- **Lista de Canciones**: En el lado izquierdo de la interfaz, se muestra una lista de canciones disponibles.
-- **Detalles de Canción**: Al seleccionar una canción de la lista, sus detalles se muestran en el lado derecho.
-- **Interfaz Reactiva y Moderna**: Construida utilizando React y contextos para una experiencia de usuario intuitiva y ágil.
+- **Song List**: A list of available songs is displayed on the left side of the interface.
+- **Song Details**: When a song is selected from the list, its details are displayed on the right side.
+- **Responsive and Modern Interface**: Built with React and contexts for an intuitive and smooth user experience.
 
-## Demo en Línea
+## Live Demo
 
-Puedes ver el proyecto en acción a través del despliegue en Render: [Reproductor de Música en React](https://music-player-l3d6.onrender.com).
+You can see the project in action via the deployment on Render: [Music Player in React](https://music-player-l3d6.onrender.com).
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
    ```bash
    git clone https://github.com/JoseMarioCarranza/music_player/
-   cd <nombre-del-repositorio>
+   cd music_player
    ```
 
-2. Instala las dependencias:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Ejecuta la aplicación en modo desarrollo:
+3. Run the application in development mode:
    ```bash
    npm run dev
    ```
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **React**: Para la creación de la interfaz de usuario.
-- **Vite**: Para una experiencia de desarrollo rápida y eficiente.
-- **Render**: Para el despliegue en la nube.
+- **React**: For building the user interface.
+- **Vite**: For a fast and efficient development experience.
+- **Render**: For cloud deployment.
 
-## Notas
+## Notes
 
-Este proyecto es una demostración de interfaz y no tiene capacidades de reproducción de audio. Fue diseñado para explorar el manejo de contextos y componentes en React.
+This project is a demonstration of an interface and does not have audio playback capabilities. It was designed to explore the handling of contexts and components in React.
+
+---
+
+## Author
+
+- **José Mario Rivera Carranza**  
+  - 📧 Email: [imt_josecarranza@outlook.com](mailto:imt_josecarranza@outlook.com)  
+  - 🌐 Website: [www.ingjosemario.com](https://www.ingjosemario.com)  
+  - 💻 GitHub: [José Mario Carranza](https://github.com/JoseMarioCarranza)
